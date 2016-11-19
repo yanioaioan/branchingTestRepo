@@ -1,6 +1,6 @@
 line1
 line2
-line3
+#line 3 deleted by someone at master but mybranch is not aware of it
 line4
 line5
 line6
